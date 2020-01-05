@@ -15,10 +15,10 @@ disqusShortname = "Bari"
 
 [params]
     author = "Bari Abbassi"
-    #info = "Blockchain Engineer"
+    info = "Blockchain Engineer. Helped companies like OWNEST and CRATR build robust Blockchain solutions. Currently conducting research on Blockchain interoperability at Tohoku University."
     description = "Bari Abbassi's personal website"
     keywords = "blockchain,software,developer"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "images/profile.jpg"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
