@@ -38,7 +38,7 @@ disqusShortname = "Bari"
     name = "Github"
     icon = "fab fa-github fa-2x"
     weight = 1
-    url = "https://github.com/johndoe/"
+    url = "https://github.com/bariabbassi/"
 [[params.social]]
     name = "Linkedin"
     icon = "fab fa-linkedin fa-2x"
@@ -53,7 +53,7 @@ disqusShortname = "Bari"
     name = "Medium"
     icon = "fab fa-medium fa-2x"
     weight = 3
-    url = "https://medium.com/@BariAbbassi"
+    url = "https://medium.com/@BariAbbassi/"
 [[params.social]]
     name = "Envelope"
     icon = "far fa-envelope fa-2x"
