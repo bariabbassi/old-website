@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Bari Abbassi - Blockchain Engineer"
+title = "Bari Abbassi"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -13,11 +13,13 @@ disqusShortname = "Bari Abbassi"
 [params]
     author = "Bari Abbassi"
 
-    info = "Blockchain Engineer. Helped companies like OWNEST and CRATR build robust Blockchain solutions. Currently conducting research on Blockchain interoperability at Tohoku University."
+    info = "MEng. in Computer Science from Université de Paris\n
+Worked as a Backend Developer during several Internships\n
+Experience as a Blockchain Researcher and Developer"
 
     description = "Bari Abbassi's personal website"
 
-    keywords = "bari abbassi,bariabbassi,bari,abbassi,blockchain,software,developer,blockchain engineer, software developer,bitcoin,ethereum,solidity,web3,cosmos,cosmos sdk,cosmos-sdk,cosmos network,tendermint,polkadot,substrate,interledger,ilp,xrp,ripple,hyperledger,hyperledger fabric,corda,r3,dlt,go,golang,decentralization"
+    keywords = "software, developer, blockchain, amsterdam"
 
     avatarurl = "/profile.jpg"
     favicon_32 = "/favicon-32x32.png"
