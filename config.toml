@@ -13,13 +13,11 @@ disqusShortname = "Bari Abbassi"
 [params]
     author = "Bari Abbassi"
 
-    info = "MEng. in Computer Science from Université de Paris\n
-Worked as a Backend Developer during several Internships\n
-Experience as a Blockchain Researcher and Developer"
+    info = "Hi, my name is Bari.  I'm a Software Engineer.  I help companies solve problems using Software, usually around FinTech and Blockchain."
 
     description = "Bari Abbassi's personal website"
 
-    keywords = "software, developer, blockchain, amsterdam"
+    keywords = "backend, developer, blockchain, amsterdam, fintech"
 
     avatarurl = "/profile.jpg"
     favicon_32 = "/favicon-32x32.png"
