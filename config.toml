@@ -13,7 +13,7 @@ disqusShortname = "Bari Abbassi"
 [params]
     author = "Bari Abbassi"
 
-    info = "Hi, my name is Bari.  I'm a Software Engineer.  I help companies solve problems using Software, usually around FinTech and Blockchain."
+    info = "Hi, my name is Bari.  I'm a Software Engineer.  I solve problems using Software.  I also take pictures for fun."
 
     description = "Bari Abbassi's personal website"
 
@@ -46,6 +46,11 @@ disqusShortname = "Bari Abbassi"
     icon = "fab fa-twitter fa-2x"
     weight = 3
     url = "https://twitter.com/bariabbassi/"
+[[params.social]]
+    name = "Instagram"
+    icon = "fab fa-instagram fa-2x"
+    weight = 3
+    url = "https://instagram.com/bariabbassi/"
 [[params.social]]
     name = "Medium"
     icon = "fab fa-medium fa-2x"
